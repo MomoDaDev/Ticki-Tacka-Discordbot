@@ -5,7 +5,7 @@ The bot gives the user the ability to play music in their voice-channel aswell a
 
 A little bonus: You can write the command: ?whowinsgodzillaormonkey
 
-<details><summary>CLICK ME TO SEE THE AWNSER</summary>
+<details><summary>CLICK ME TO SEE THE ANSWER</summary>
 <p>
 
 #### This is the result of this command!
